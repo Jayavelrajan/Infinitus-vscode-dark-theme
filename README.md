@@ -14,7 +14,7 @@ Thanks for being part of this journey! 🙌
 
 ## Color Palette
 
-#B9CDDA - Tranquil Sky Blue
+#B9CDDA - Tranquil Sky Blue <br>
 #F4F4F9 - Whispering Snow
 #F5D491 - Sunlit Sand
 #FF6868 - Radiant Rouge
