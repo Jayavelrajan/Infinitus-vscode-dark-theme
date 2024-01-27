@@ -1,0 +1,40 @@
+{
+  "name": "infinitus-dark",
+  "displayName": "Infinitus",
+  "description": "Infinitus: a stylish and modern VS Code theme for a cool coding vibe. With futuristic colors and easy-on-the-eyes contrasts, it boosts your coding experience. Enjoy a seamless workflow in a visually pleasing environment that adapts to your coding adventures.",
+  "version": "0.1.0",
+  "publisher": "jayavelrajan",
+  "icon": "infinitus-dark-150px-01.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jayavelrajan/Infinitus-vscode-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "jayavelrajan",
+    "jayavel rajan",
+    "jaya vel rajan",
+    "jayavelrajan theme",
+    "darktheme",
+    "futuristic",
+    "colorful",
+    "fun",
+    "vscode dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Infinitus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Infinitus-color-theme.json"
+      }
+    ]
+  }
+}
