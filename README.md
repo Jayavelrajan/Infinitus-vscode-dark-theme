@@ -12,5 +12,8 @@ Consider giving me feedback after you have used it.
 
 Thanks for being part of this journey! 🙌
 
-# Color Palette
-----------------------------
+## Color Palette
+
+#B9CDDA
+
+
