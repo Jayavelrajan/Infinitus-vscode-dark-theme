@@ -3,7 +3,7 @@
 ![image](infinitus-theme-01.PNG)
 ![image](infinitus-theme-02.PNG)
 
-VS Code Extension :-> [Infinitus]([https://www.linkedin.com/in/jayavelrajan/](https://marketplace.visualstudio.com/items?itemName=jayavelrajan.infinitus-dark))
+VS Code Extension :-> [Infinitus](https://www.linkedin.com/in/jayavelrajan/](https://marketplace.visualstudio.com/items?itemName=jayavelrajan.infinitus-dark/)
 
 "Infinitus" is the dark theme extension for VS Code, I created with love, and could not wait for you to try it.
 
