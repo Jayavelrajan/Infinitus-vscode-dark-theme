@@ -14,6 +14,12 @@ Thanks for being part of this journey! 🙌
 
 ## Color Palette
 
-#B9CDDA
-
-
+#B9CDDA - Tranquil Sky Blue
+#F4F4F9 - Whispering Snow
+#F5D491 - Sunlit Sand
+#FF6868 - Radiant Rouge
+#FFEAA7 - Golden Glow
+#DCFFB7 - Meadow Mist
+#FFC47E - Apricot Delight
+#86A7FC - Serene Sky Blue
+#FF8080 - Coral Crush
